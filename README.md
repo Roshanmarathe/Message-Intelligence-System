@@ -19,7 +19,8 @@
 ### Is this message **legitimate** — or **spam**?
 Three learning paradigms. One dataset. One honest comparison.
 
-[**Live Demo**](#-live-demo) · [**Dataset**](#-dataset) · [**Pipeline**](#-pipeline) · [**Models**](#-models) · [**Results**](#-results) · [**Quick Start**](#-quick-start)
+[**Live Demo**]([#-live-demo](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)
+) · [**Dataset**](#-dataset) · [**Pipeline**](#-pipeline) · [**Models**](#-models) · [**Results**](#-results) · [**Quick Start**](#-quick-start)
 
 </div>
 
