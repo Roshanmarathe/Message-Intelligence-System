@@ -19,8 +19,7 @@
 ### Is this message **legitimate** — or **spam**?
 Three learning paradigms. One dataset. One honest comparison.
 
-[**Live Demo**]([#-live-demo](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)
-) · [**Dataset**](#-dataset) · [**Pipeline**](#-pipeline) · [**Models**](#-models) · [**Results**](#-results) · [**Quick Start**](#-quick-start)
+[**Live Demo**](#-live-demo) · [**Dataset**](#-dataset) · [**Pipeline**](#-pipeline) · [**Models**](#-models) · [**Results**](#-results) · [**Quick Start**](#-quick-start)
 
 </div>
 
@@ -86,12 +85,14 @@ mindmap
 
 <div align="center">
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)
+
+🔗 **https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/**
 
 </div>
 
-> [!NOTE]
-> Replace `https://YOUR-APP-NAME.streamlit.app/` with your deployed URL **only after** you have tested the link. If the app is not deployed yet, follow [Quick Start](#-quick-start) to run it locally.
+> [!TIP]
+> Enter the 12 numerical feature values in the app and submit to get a Legitimate / Spam prediction. Free Streamlit apps go to sleep when idle, so the first load may take a few seconds. To run it on your own machine, follow [Quick Start](#-quick-start).
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
